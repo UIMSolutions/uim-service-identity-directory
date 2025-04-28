@@ -1,0 +1,6 @@
+name "uim-service-identitydirectory"
+description "A simple vibe.d server application."
+authors "ONS"
+copyright "Copyright © 2025, ONS"
+license "Apache-2.0"
+dependency "uim-base" version="~>25.4.19"
